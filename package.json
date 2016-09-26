@@ -4,7 +4,9 @@
   "description": "application example on how to use the abase plugin",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/start.js",
+    "startmon": "nodemon lib/start.js"
   },
   "repository": {
     "type": "git",
