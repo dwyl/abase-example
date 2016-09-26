@@ -1,0 +1,26 @@
+{
+  "name": "abase-example",
+  "version": "0.0.1",
+  "description": "application example on how to use the abase plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwyl/abase-example.git"
+  },
+  "keywords": [
+    "abase"
+  ],
+  "author": "SimonLab <simon@foundersandcoders.com> (https://github.com/SimonLab)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwyl/abase-example/issues"
+  },
+  "homepage": "https://github.com/dwyl/abase-example#readme",
+  "dependencies": {
+    "hapi": "^15.0.3",
+    "hoek": "^4.1.0"
+  }
+}
